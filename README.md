@@ -12,5 +12,4 @@ The configuration of different models that we used is available in the folder "c
 ## Train
 python3 __main__.py ../config/**.yaml --train -v
 
-The project is based on the Projects: TensorFlow's reference implementation
- [https://www.tensorflow.org/tutorials/seq2seq]
+The project is based on the Projects: https://www.tensorflow.org/tutorials/seq2seq and https://github.com/eske/seq2seq
