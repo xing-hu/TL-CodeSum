@@ -8,6 +8,7 @@ The paper used two datasets:
 
 ## Requirments
 Python 3.6 
+
 NLTK 3.2.5 
 
 ## Config
