@@ -6,6 +6,10 @@ The paper used two datasets:
 
 -- Data_pre for API sequence summarization task
 
+## Requirments
+Python 3.6 
+NLTK 3.2.5 
+
 ## Config
 The configuration of different models that we used is available in the folder "config"
 
