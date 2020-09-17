@@ -15,6 +15,6 @@ NLTK 3.2.5
 The configuration of different models that we used is available in the folder "config"
 
 ## Train
-python3 __main__.py ../config/**.yaml --train -v
+python3 \_\_main\_\_.py ../config/**.yaml --train -v
 
 The project is based on the Projects: https://www.tensorflow.org/tutorials/seq2seq and https://github.com/eske/seq2seq
